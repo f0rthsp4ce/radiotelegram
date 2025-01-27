@@ -2,6 +2,10 @@
 
 Record Baofeng voice transmissions with RTL-SDR and send them as Telegram voice messages automatically
 
+> [!WARNING]  
+> This repository is unmaintained.
+> See [MikeWent/radiotelegram](https://github.com/MikeWent/radiotelegram) for improved RX/TX version  by original author.
+
 ## how to
 
 ### dependencies
